@@ -1,0 +1,76 @@
+Bài Làm
+Câu1: Git là gì ? GitHub là gì? Trình bày các chính nang trong Github ?
+Git là gì?
+
+Git là m?t h? th?ng qu?n lý phiên b?n phân tán (distributed version control system - DVCS), du?c phát tri?n b?i Linus Torvalds vào nam 2005. Git du?c s? d?ng r?ng rãi trong vi?c qu?n lý mã ngu?n trong phát tri?n ph?n m?m và các d? án công ngh? khác.
+Ð?c di?m chính c?a Git bao g?m:
+1.	Phân tán: M?i máy tính trong m?ng làm vi?c v?i toàn b? d? li?u l?ch s? và nhánh c?a d? án.
+2.	Hi?u su?t cao: Git luu tr? d? li?u ? m?i thay d?i, cho phép b?n chuy?n d?i gi?a các phiên b?n, nhánh m?t cách nhanh chóng.
+3.	Nhánh linh ho?t: Git cho phép b?n t?o và qu?n lý các nhánh riêng bi?t c?a d? án, m?i nhánh có th? du?c phát tri?n d?c l?p và sau dó merge l?i v?i nhau.
+4.	H? tr? c?ng tác: Git cung c?p các công c? d? qu?n lý các d? án ph?c t?p v?i nhi?u ngu?i cùng làm vi?c trên cùng m?t mã ngu?n.
+GitHub là gì?
+GitHub là m?t n?n t?ng luu tr? mã ngu?n và h? th?ng qu?n lý d? án d?a trên Git. Nó cung c?p các d?ch v? cho các d? án ph?n m?m, cho phép các nhà phát tri?n c?ng tác v?i nhau và qu?n lý mã ngu?n c?a h? thông qua các tính nang nhu:
+5.	Luu tr? mã ngu?n: GitHub cho phép ngu?i dùng luu tr? mã ngu?n c?a các d? án trong các kho (repositories) Git công khai ho?c riêng tu.
+6.	Qu?n lý d? án: Ngu?i dùng có th? t?o các d? án, g?n nhãn (label), theo dõi v?n d? (issue), và qu?n lý các tác v? khác liên quan d?n phát tri?n ph?n m?m.
+7.	H?p tác và xem xét mã ngu?n: GitHub cung c?p các công c? d? ngu?i dùng có th? c?ng tác v?i nhau b?ng cách d? xu?t thay d?i (pull request), xem xét mã ngu?n, và th?c hi?n các bu?c ki?m tra d? d?m b?o ch?t lu?ng mã ngu?n.
+8.	Qu?n lý phiên b?n và nhánh: GitHub h? tr? qu?n lý phiên b?n mã ngu?n thông qua Git, cho phép ngu?i dùng t?o, qu?n lý và merge các nhánh (branches) m?t cách d? dàng.
+9.	C?ng d?ng và m?ng xã h?i: GitHub là m?t c?ng d?ng l?n c?a các nhà phát tri?n, noi mà h? có th? khám phá, chia s? và h?c h?i t? các d? án mã ngu?n m? và d? án công khai khác.
+Trình bày các chính nang trong Github ?
+GitHub cung c?p nhi?u tính nang quan tr?ng giúp cho vi?c qu?n lý mã ngu?n và c?ng tác trong d? án ph?n m?m. Du?i dây là m?t s? ch?c nang chính c?a GitHub:
+1.	Luu tr? mã ngu?n (Repositories):
+o	GitHub cho phép ngu?i dùng luu tr? mã ngu?n c?a các d? án trong các kho ch?a (repositories).
+o	Kho ch?a có th? là công khai (public) ho?c riêng tu (private), tùy thu?c vào cài d?t c?a ngu?i s? h?u.
+2.	Qu?n lý d? án:
+o	Các d? án trên GitHub có th? du?c t? ch?c và qu?n lý b?ng cách s? d?ng các tính nang nhu g?n nhãn (labels), theo dõi v?n d? (issues), và l?p k? ho?ch v?i các b?n ghi (milestones).
+o	Ngu?i dùng có th? t?o các ghi chú (notes) và ch? d?nh ngu?i th?c hi?n (assignees) cho các v?n d? c? th?.
+3.	C?ng tác và xem xét mã ngu?n:
+o	GitHub h? tr? c?ng tác gi?a các nhà phát tri?n b?ng cách cho phép h? d? xu?t thay d?i (pull request) vào kho ch?a chính.
+o	Các thay d?i này sau dó có th? du?c xem xét, th?o lu?n, và ch?nh s?a tru?c khi du?c merge vào nhánh chính c?a d? án.
+4.	Qu?n lý phiên b?n và nhánh (Branches):
+o	GitHub tích h?p sâu s? qu?n lý phiên b?n b?ng Git, cho phép ngu?i dùng t?o, qu?n lý và merge các nhánh c?a mã ngu?n.
+o	Các nhánh (branches) cho phép phát tri?n song song và th? nghi?m tính nang m?i mà không ?nh hu?ng d?n nhánh chính (main branch).
+5.	H? th?ng báo cáo và phân tích:
+o	GitHub cung c?p các báo cáo v? ho?t d?ng c?a d? án, bao g?m s? lu?ng thay d?i, th?i gian dóng góp, và các ch? s? phân tích khác.
+o	Các tính nang nhu GitHub Actions cho phép t? d?ng hóa các quy trình phát tri?n, ki?m th? và tri?n khai.
+6.	C?ng d?ng và xem mã ngu?n m?:
+o	GitHub là m?t c?ng d?ng l?n c?a các nhà phát tri?n, noi mà h? có th? khám phá, dóng góp vào và h?c h?i t? các d? án mã ngu?n m?.
+o	GitHub cung cung c?p các công c? d? ngu?i dùng có th? dánh giá và dóng góp vào các d? án công khai.
+7.	B?o m?t và qu?n lý truy c?p:
+o	GitHub cung c?p các công c? và co ch? b?o m?t d? qu?n lý truy c?p vào kho ch?a và d? án.
+o	Ngu?i dùng có th? c?u hình quy?n truy c?p, theo dõi l?ch s? dang nh?p, và áp d?ng các bi?n pháp b?o m?t khác d? b?o v? d? án.
+
+Câu2: SourceTree là gì? Trình bày các tính nang chính trong SourceTree ?	
+SourceTree là gì?
+SourceTree là m?t ?ng d?ng giao di?n d? h?a (GUI) mi?n phí du?c cung c?p b?i Atlassian, du?c s? d?ng d? làm vi?c v?i h? th?ng qu?n lý phiên b?n phân tán (DVCS), d?c bi?t là Git và Mercurial. Ðây là m?t công c? h?u ích cho các nhà phát tri?n và các nhóm phát tri?n ph?n m?m d? qu?n lý mã ngu?n và các d? án.
+Các tính nang chính c?a SourceTree bao g?m:
+1.	Giao di?n d? h?a thân thi?n: SourceTree cung c?p m?t giao di?n d? h?a tr?c quan, giúp ngu?i dùng d? dàng qu?n lý và theo dõi các thay d?i trong d? án.
+2.	Qu?n lý các kho ch?a (repositories): Ngu?i dùng có th? thêm, sao chép, xoá và qu?n lý các kho ch?a Git ho?c Mercurial.
+3.	Xem xét l?ch s? và thay d?i: SourceTree cho phép xem l?ch s? c?a mã ngu?n, so sánh thay d?i gi?a các phiên b?n, và khôi ph?c các phiên b?n tru?c dó n?u c?n thi?t.
+4.	H? tr? nhánh (branches): Ngu?i dùng có th? t?o, qu?n lý và merge các nhánh mã ngu?n m?t cách d? dàng.
+5.	H? tr? cho Git Flow: SourceTree tích h?p các tính nang h? tr? Git Flow, m?t phuong pháp qu?n lý nhánh Git ph? bi?n trong phát tri?n ph?n m?m.
+6.	H? tr? da n?n t?ng: SourceTree có s?n cho c? h? di?u hành Windows và macOS, giúp ngu?i dùng trên các n?n t?ng này có th? làm vi?c v?i Git và Mercurial m?t cách thu?n ti?n.
+Trình bày các tính nang chính trong SourceTree ?
+SourceTree là m?t công c? giao di?n d? h?a (GUI) cho h? th?ng qu?n lý phiên b?n phân tán (DVCS), nhu Git và Mercurial. Du?i dây là các tính nang chính c?a SourceTree:
+1.	Qu?n lý kho ch?a (Repositories):
+o	SourceTree cho phép ngu?i dùng qu?n lý các kho ch?a Git và Mercurial.
+o	Có th? thêm, sao chép (clone), xoá, và qu?n lý các kho ch?a t? nhi?u ngu?n khác nhau nhu GitHub, Bitbucket, hay các d?a ch? URL khác.
+2.	Giao di?n ngu?i dùng d? h?a (GUI) thân thi?n:
+o	Giao di?n c?a SourceTree du?c thi?t k? d? d? s? d?ng và tr?c quan, giúp ngu?i dùng theo dõi và qu?n lý các thay d?i trong mã ngu?n m?t cách hi?u qu?.
+3.	H? tr? qu?n lý nhánh (Branches):
+o	SourceTree cung c?p các tính nang m?nh m? d? qu?n lý nhánh (branches) trong d? án. Ngu?i dùng có th? t?o, xem, xoá và merge các nhánh m?t cách d? dàng.
+o	Có th? xem thông tin chi ti?t v? m?i nhánh, bao g?m l?ch s? commit và thay d?i.
+4.	Xem xét l?ch s? và thay d?i:
+o	SourceTree cho phép ngu?i dùng xem l?ch s? c?a mã ngu?n, theo dõi các commit dã th?c hi?n, và xem chi ti?t v? các thay d?i dã du?c th?c hi?n.
+o	Có th? so sánh các phiên b?n khác nhau và khôi ph?c l?i các phiên b?n tru?c dó n?u c?n thi?t.
+5.	H? tr? Git Flow:
+o	SourceTree tích h?p các tính nang h? tr? cho Git Flow, m?t phuong pháp qu?n lý nhánh Git ph? bi?n trong phát tri?n ph?n m?m.
+o	Các tính nang này bao g?m h? tr? cho các tính nang nhu t?o và merge các feature branch, release branch, và hotfix branch.
+6.	Công c? h? tr? qu?n lý:
+o	SourceTree cung c?p các công c? h?u ích d? qu?n lý các commit, s?a d?i, và phát tri?n d? án.
+o	Có th? s? d?ng các tính nang nhu stash, cherry-pick, rebase, và d?ng b? hóa d? qu?n lý và di?u ch?nh mã ngu?n.
+7.	H? tr? da n?n t?ng:
+o	SourceTree có s?n cho c? h? di?u hành Windows và macOS, d?m b?o tính d?ng nh?t và kh? nang làm vi?c trên nhi?u n?n t?ng cho ngu?i dùng.
+
+
+
+
